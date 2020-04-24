@@ -1,0 +1,35 @@
+.middle-container{
+  text-align: center;
+  font-family:Comic Neue, sans-serif;
+}
+.intro{
+  color:#30475E;
+  font-size: 400%;
+}
+.sub-intro{
+  font-weight: bold;
+
+}
+.top-cloud{
+  display: block;
+  position:relative;
+  left:55%;
+}
+.bottom-cloud{
+  position: absolute;
+  left:30%;
+}
+.mountain{
+
+  display:block;
+margin: auto;
+}
+.top-container{
+  text-align: center;
+  font-family:Comic Neue, sans-serif;
+  display:inline;
+}
+.bottom-container{
+  text-align: center;
+  font-family:Comic Neue, sans-serif;
+}
